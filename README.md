@@ -18,8 +18,12 @@ Notice for the box plot, a linear line cannot capture a nonlinear relationship. 
 ![seasonality](https://github.com/chriscastillo1/BikeSharingDemand-Kaggle/assets/70082335/0f0ddd66-2d85-44ba-9763-9ec0d0c6bdcf)
 
 # Bike Rentals by Hour depending on if its a working day or nonworking day
-
 Working Day
-![nonworking days](https://github.com/chriscastillo1/BikeSharingDemand-Kaggle/assets/70082335/39176ab5-78da-418b-90e8-d0c45e3b25a0)
 
-![nonworking days](https://github.com/chriscastillo1/BikeSharingDemand-Kaggle/assets/70082335/60d025d2-814c-46f3-ace2-cb8773327119)
+![workingdays](https://github.com/chriscastillo1/BikeSharingDemand-Kaggle/assets/70082335/406ddd8e-1419-4a1b-bff4-a1ba936309d1)
+
+Nonworking Day
+
+![nonworking days](https://github.com/chriscastillo1/BikeSharingDemand-Kaggle/assets/70082335/31de7c81-f8bb-44b7-a431-ac26b9f7beb9)
+
+# Building the Model
