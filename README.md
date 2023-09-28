@@ -1,4 +1,4 @@
-![image](https://github.com/chriscastillo1/BikeSharingDemand-Kaggle/assets/70082335/b41e4fc5-d5e9-409c-b469-d4df43ed8f29)# BikeSharingDemand-Kaggle
+# BikeSharingDemand-Kaggle
 A Machine Learning implemention of a linear regression model in R, based of the Kaggle Bike Sharing Demand challenge.
 GOAL: CREATE A MODEL TO PREDICT BIKE RENTALS
 Kaggle Challenge: https://www.kaggle.com/competitions/bike-sharing-demand/overview
