@@ -1,4 +1,4 @@
-# BikeSharingDemand-Kaggle
+![image](https://github.com/chriscastillo1/BikeSharingDemand-Kaggle/assets/70082335/b41e4fc5-d5e9-409c-b469-d4df43ed8f29)# BikeSharingDemand-Kaggle
 A Machine Learning implemention of a linear regression model in R, based of the Kaggle Bike Sharing Demand challenge.
 GOAL: CREATE A MODEL TO PREDICT BIKE RENTALS
 Kaggle Challenge: https://www.kaggle.com/competitions/bike-sharing-demand/overview
@@ -27,3 +27,10 @@ Nonworking Day
 ![nonworking days](https://github.com/chriscastillo1/BikeSharingDemand-Kaggle/assets/70082335/31de7c81-f8bb-44b7-a431-ac26b9f7beb9)
 
 # Building the Model
+Due to the obvious nonlinearity of the data from our data exploration, we know a linear regressino model is not the best model to fit for this example.
+However, what we can tell is when we do run the model, Season, Temp, Humdiity, and Hour all have significance in determining demand. With an Adjusted R Squared of 0.3339,
+we would look into choosing another model to better fit the data.
+
+![image](https://github.com/chriscastillo1/BikeSharingDemand-Kaggle/assets/70082335/c0b71093-3249-4ef3-a260-98b55911efe0)
+
+![image](https://github.com/chriscastillo1/BikeSharingDemand-Kaggle/assets/70082335/59c3db21-a393-44c2-b72f-51d07469ccf9)
